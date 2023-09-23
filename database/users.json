@@ -1,0 +1,37 @@
+{
+  "john_noakes" : {
+    "id": "john_noakes",
+    "name": "John Noakes",
+    "last_active":1360031010
+  },
+  "john_stiles" : {
+    "id": "john_stiles",
+    "name": "John Stiles",
+    "last_active": 1360031222
+  },
+  "richard_miles" : {
+    "id": "richard_miles",
+    "name": "Richard Miles",
+    "last_active": 1360031425
+  },
+  "michael_scott" : {
+    "id": "michael_scott",
+    "name": "Michael Scott",
+    "last_active": 1360031625
+  },
+  "jim_halpert" : {
+    "id": "jim_halpert",
+    "name": "Jim Halpert",
+    "last_active": 1360031325
+  },
+  "mary_major" : {
+    "id": "mary_major",
+    "name": "Mary Major",
+    "last_active": 1360031225
+  },
+  "dwight_schrute" : {
+    "id": "dwight_schrute",
+    "name": "Dwight Schrute",
+    "last_active": 1360031202
+  }
+}
